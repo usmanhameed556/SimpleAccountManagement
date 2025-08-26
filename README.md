@@ -18,3 +18,7 @@ It supports creating accounts, depositing money, withdrawing money, and tracking
 ---
 
 ## 📂 Project Structure
+
+##Usage
+Run the scripts directly
+python account.py
